@@ -1,0 +1,6 @@
+{
+  "workbench.iconTheme": "vs-minimal",
+  "workbench.sideBar.location": "right",
+  "remoteHub.richNavigation.enabled": true,
+  "better-comments.highlightPlainText": true
+}

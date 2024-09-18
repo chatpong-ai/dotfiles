@@ -1,5 +1,5 @@
  alias hs="history | grep"
- 
+
  alias zpr='git pr'
 
  alias workinit="osascript ~/.dotfiles/AppleScripts/work_init.scpt"
@@ -8,7 +8,7 @@
 
  alias togglemute="osascript ~/.dotfiles/AppleScripts/toggle_mute.scpt"
 
- alias mute="osascript -e 'set volume with output muted'"
+ alias mute="osascript -e 'set volume with output mutexd'"
 
  alias unmute="osascript -e 'set volume without output muted'"
 
